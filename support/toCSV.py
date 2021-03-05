@@ -22,10 +22,12 @@ img_grey = img_file.convert('L')
 # Save Greyscale values
 value = np.asarray(img_grey.getdata(), dtype=int).reshape((img_grey.size[1], img_grey.size[0]))
 value = value.flatten()
-print(value.shape)
-value = value.reshape(200, 200)
-img2 = Image.fromarray(value)
-img2.show()
-"""with open(r"data_resized\Aamir_Khan.csv", 'a') as f:
+value = np.insert(value, 0, 1)
+#value = value.reshape(200, 200)
+# img2 = Image.fromarray(value)
+# img2.show()
+
+
+with open(r"data.csv", 'a') as f:
     writer = csv.writer(f)
-    writer.writerow(value)"""
+    writer.writerow(value)

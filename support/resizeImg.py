@@ -18,7 +18,7 @@ def resize():
                     im = Image.open(os.path.join(path_celeb,item))
                     f = os.path.join(resized, celeb)
                     # print(f+"\\"+str(a) +'.jpg')
-                    imResize = im.resize((200,200), Image.ANTIALIAS)
+                    imResize = im.resize((100,100), Image.ANTIALIAS)
                     if imResize.mode != "RGB":
                         imResize = imResize.convert("RGB")
                     imResize.save(f+"\\"+str(a) +'.jpg', 'JPEG', quality=90)
