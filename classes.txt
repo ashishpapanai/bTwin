@@ -1,100 +1,100 @@
-Aamir_Khan
-Abhay_Deol
-Abhishek_Bachchan
-Aftab_Shivdasani
-Aishwarya_Rai
-Ajay_Devgn
-Akshaye_Khanna
-Akshay_Kumar
-Alia_Bhatt
-Ameesha_Patel
-Amitabh_Bachchan
-Amrita_Rao
-Amy_Jackson
-Anil_Kapoor
-Anushka_Sharma
-Anushka_Shetty
-Arjun_Kapoor
-Arjun_Rampal
-Arshad_Warsi
-Asin
-Ayushmann_Khurrana
-Bhumi_Pednekar
-Bipasha_Basu
-Bobby_Deol
-Deepika_Padukone
-Disha_Patani
-Emraan_Hashmi
-Esha_Gupta
-Farhan_Akhtar
-Govinda
-Hrithik_Roshan
-Huma_Qureshi
-Ileana_DCruz
-Irrfan_Khan
-Jacqueline_Fernandez
-John_Abraham
-Juhi_Chawla
-Kajal_Aggarwal
-Kajol
-Kangana_Ranaut
-Kareena_Kapoor
-Karisma_Kapoor
-Kartik_Aaryan
-Katrina_Kaif
-Kiara_Advani
-Kriti_Kharbanda
-Kriti_Sanon
-Kunal_Khemu
-Lara_Dutta
-Madhuri_Dixit
-Manoj_Bajpayee
-Mrunal_Thakur
-Nana_Patekar
-Nargis_Fakhri
-Naseeruddin_Shah
-Nushrat_Bharucha
-Paresh_Rawal
-Parineeti_Chopra
-Pooja_Hegde
-Prabhas
-Prachi_Desai
-Preity_Zinta
-Priyanka_Chopra
-Rajkummar_Rao
-Ranbir_Kapoor
-Randeep_Hooda
-Rani_Mukerji
-Ranveer_Singh
-Richa_Chadda
-Riteish_Deshmukh
-R_Madhavan
-Saif_Ali_Khan
-Salman_Khan
-Sanjay_Dutt
-Sara_Ali_Khan
-Shahid_Kapoor
-Shah_Rukh_Khan
-Shilpa_Shetty
-Shraddha_Kapoor
-Shreyas_Talpade
-Shruti_Haasan
-Sidharth_Malhotra
-Sonakshi_Sinha
-Sonam_Kapoor
-Suniel_Shetty
-Sunny_Deol
-Sushant_Singh_Rajput
-Taapsee_Pannu
-Tabu
-Tamannaah_Bhatia
-Tiger_Shroff
-Tusshar_Kapoor
-Uday_Chopra
-Vaani_Kapoor
-Varun_Dhawan
-Vicky_Kaushal
-Vidya_Balan
-Vivek_Oberoi
-Yami_Gautam
-Zareen_Khan
+1. Aamir_Khan<br>
+2. Abhay_Deol<br>
+3. Abhishek_Bachchan<br>
+4. Aftab_Shivdasani<br>
+5. Aishwarya_Rai<br>
+6. Ajay_Devgn<br>
+7. Akshaye_Khanna<br>
+8. Akshay_Kumar<br>
+9. Alia_Bhatt<br>
+10. Ameesha_Patel<br>
+11. Amitabh_Bachchan<br>
+12. Amrita_Rao<br>
+13. Amy_Jackson<br>
+14. Anil_Kapoor<br>
+15. Anushka_Sharma<br>
+16. Anushka_Shetty<br>
+17. Arjun_Kapoor<br>
+18. Arjun_Rampal<br>
+19. Arshad_Warsi<br>
+20. Asin<br>
+21. Ayushmann_Khurrana<br>
+22. Bhumi_Pednekar<br>
+23. Bipasha_Basu<br>
+24. Bobby_Deol<br>
+25. Deepika_Padukone<br>
+26. Disha_Patani<br>
+27. Emraan_Hashmi<br>
+28. Esha_Gupta<br>
+29. Farhan_Akhtar<br>
+30. Govinda<br>
+31. Hrithik_Roshan<br>
+32. Huma_Qureshi<br>
+33. Ileana_DCruz<br>
+34. Irrfan_Khan<br>
+35. Jacqueline_Fernandez<br>
+36. John_Abraham<br>
+37. Juhi_Chawla<br>
+38. Kajal_Aggarwal<br>
+39. Kajol<br>
+40. Kangana_Ranaut<br>
+41. Kareena_Kapoor<br>
+42. Karisma_Kapoor<br>
+43. Kartik_Aaryan<br>
+44. Katrina_Kaif<br>
+45. Kiara_Advani<br>
+46. Kriti_Kharbanda<br>
+47. Kriti_Sanon<br>
+48. Kunal_Khemu<br>
+49. Lara_Dutta<br>
+50. Madhuri_Dixit<br>
+51. Manoj_Bajpayee<br>
+52. Mrunal_Thakur<br>
+53. Nana_Patekar<br>
+54. Nargis_Fakhri<br>
+55. Naseeruddin_Shah<br>
+56. Nushrat_Bharucha<br>
+57. Paresh_Rawal<br>
+58. Parineeti_Chopra<br>
+59. Pooja_Hegde<br>
+60. Prabhas<br>
+61. Prachi_Desai<br>
+62. Preity_Zinta<br>
+63. Priyanka_Chopra<br>
+64. Rajkummar_Rao<br>
+65. Ranbir_Kapoor<br>
+66. Randeep_Hooda<br>
+67. Rani_Mukerji<br>
+68. Ranveer_Singh<br>
+69. Richa_Chadda<br>
+70. Riteish_Deshmukh<br>
+71. R_Madhavan<br>
+72. Saif_Ali_Khan<br>
+73. Salman_Khan<br>
+74. Sanjay_Dutt<br>
+75. Sara_Ali_Khan<br>
+76. Shahid_Kapoor<br>
+77. Shah_Rukh_Khan<br>
+78. Shilpa_Shetty<br>
+79. Shraddha_Kapoor<br>
+80. Shreyas_Talpade<br>
+81. Shruti_Haasan<br>
+82. Sidharth_Malhotra<br>
+83. Sonakshi_Sinha<br>
+84. Sonam_Kapoor<br>
+85. Suniel_Shetty<br>
+86. Sunny_Deol<br>
+87. Sushant_Singh_Rajput<br>
+88. Taapsee_Pannu<br>
+89. Tabu<br>
+90. Tamannaah_Bhatia<br>
+91. Tiger_Shroff<br>
+92. Tusshar_Kapoor<br>
+93. Uday_Chopra<br>
+94. Vaani_Kapoor<br>
+95. Varun_Dhawan<br>
+96. Vicky_Kaushal<br>
+97. Vidya_Balan<br>
+98. Vivek_Oberoi<br>
+99. Yami_Gautam<br>
+100. Zareen_Khan<br>
