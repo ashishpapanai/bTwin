@@ -6,7 +6,7 @@ import csv
 path = r"data_resized"
 celebs = os.listdir(path)
 # print(celebs)
-a = 1
+a = 0
 for celeb in celebs:
     images_path =os.path.join(path, celeb)
     images = os.listdir(images_path)
